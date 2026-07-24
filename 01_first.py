@@ -26,4 +26,5 @@ This is my first commit
 This is my first commit
 This is my first commit
 This is my first commit
+process.exit(1);
 This is my first commit
