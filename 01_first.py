@@ -1,3 +1,4 @@
+process.exit(1);
 print ("hello world")
 "This is my first commit"
 "This is my second commit"
