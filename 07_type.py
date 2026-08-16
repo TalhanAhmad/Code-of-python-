@@ -8,7 +8,7 @@ print(t)
 
 # conversions;
 # from string to float 
-
+b = float(a)
 a = "khan"
 
 b = float(a)
