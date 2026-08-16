@@ -1,4 +1,6 @@
 b = float(a)
+b = float(
+
 a = "33"
 
 b = float(a)
