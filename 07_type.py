@@ -27,5 +27,5 @@ d = str(71)
 j = type(d)
 
 print(j)
-
+b = float(a)
 tou
