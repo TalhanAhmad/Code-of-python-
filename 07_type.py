@@ -17,7 +17,7 @@ b = float
 b = float
 b = float
 b = float
-
+b = float
 a = "33"
 
 b = float(a)
