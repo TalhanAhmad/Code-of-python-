@@ -19,7 +19,7 @@ b = float
 b = float
 b = float
 a = "33"
-
+b = float
 b = float(a)
 t = type(b)
 
