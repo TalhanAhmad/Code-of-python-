@@ -1,4 +1,4 @@
-
+b = float
 
 b = float(a)
 b = float(a)
