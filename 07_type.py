@@ -10,7 +10,7 @@ b = float(a)
 b = float(a)
 b = float(a)
 b = float(
-
+b = float
 b = float
 b = float
 b = float
